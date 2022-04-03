@@ -1,6 +1,6 @@
 # MERN_SocialMediaApp
 
-A full stack application using MongoDB, ExpressJS, ReactJS and NodeJS. 
+A full stack application using `MongoDB`, `ExpressJS`, `ReactJS` and `NodeJS`. 
 
 For the backend I used a database hosted on `cloud.mongodb.com`, `mongoose` for creating my models and connecting to the database, `jsonwebtoken` for the authentication, with that I created my own authentication system and I also implemented `Google OAuth`, to ensure the safety of the users accounts I applied `bcryptjs` for encrypting their passwords.
 
